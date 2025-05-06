@@ -1,0 +1,100 @@
+Saccharomyces cerevisiae W303
+Mus musculus
+Homo sapiens
+Saccharomyces cerevisiae
+Arabidopsis thaliana
+Streptococcus pneumoniae D39
+Drosophila melanogaster
+Chlorocebus sabaeus
+Bos taurus
+Escherichia coli
+Lacticaseibacillus rhamnosus GG
+Cricetulus griseus
+Escherichia coli str. K-12 substr. W3110
+Sorghum bicolor
+Neurospora crassa
+Escherichia coli str. K-12 substr. MG1655
+Danio rerio
+Escherichia coli K-12
+Synechocystis sp. PCC 6803
+Oryza sativa Japonica Group
+Arabidopsis
+Zea mays
+Xenopus laevis
+Streptomyces clavuligerus
+Rattus norvegicus
+Culex tarsalis
+Komagataella phaffii
+Candida albicans
+Mycobacterium tuberculosis H37Rv
+Chlorocebus aethiops aethiops
+synthetic construct
+Streptomyces tsukubensis NRRL18488
+Streptomyces venezuelae
+Streptomyces avermitilis MA-4680 = NBRC 14893
+Solanum lycopersicum
+Caenorhabditis elegans
+Haloferax volcanii DS2
+Streptomyces griseus
+Gallus gallus
+Schizosaccharomyces pombe
+Saccharomyces cerevisiae BY4741
+Solanum pennellii
+Bacillus subtilis
+Leishmania major
+Leishmania donovani
+Condylostoma magnum
+Equus caballus
+Clostridium ljungdahlii
+Zika virus
+Dengue virus type 4
+Dengue virus type 3
+Dengue virus type 2
+dengue virus type I
+Halobacterium salinarum
+Saccharomyces paradoxus
+Oryza sativa
+Eubacterium limosum
+Pseudomonas aeruginosa PAO1
+Pseudomonas aeruginosa
+Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S
+Macaca mulatta
+Pan troglodytes
+Mycolicibacterium smegmatis MC2 155
+Histoplasma capsulatum
+Plasmodium falciparum
+mixed culture
+Caenorhabditis brenneri
+Caenorhabditis remanei
+Caenorhabditis briggsae
+Saccharomyces cerevisiae x Saccharomyces paradoxus
+Acer truncatum
+Haloferax volcanii
+Cyprinus carpio
+Chlamydomonas reinhardtii
+Nicotiana benthamiana
+Bubalus bubalis
+Brassica napus
+Fusarium graminearum
+Triticum aestivum
+Oenothera elata subsp. hookeri x Oenothera grandiflora
+Oenothera elata subsp. hookeri
+Clostridium drakei
+Clostridium aceticum
+Acetobacterium woodii DSM 1030
+Escherichia coli BW25113
+Anolis carolinensis
+Klebsiella michiganensis M5al
+Klebsiella michiganensis
+Streptomyces lividans TK24
+Saccharomyces cerevisiae Sigma1278b
+Escherichia coli BL21
+Aedes aegypti
+Saccharomyces uvarum
+Streptomyces tsukubensis
+Vaccinia virus WR
+Trypanosoma cruzi Dm28c
+Mesocricetus auratus
+Kluyveromyces marxianus
+Pseudomonas aeruginosa PA14
+Staphylococcus aureus
