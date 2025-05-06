@@ -1,1 +1,1 @@
-## Lim's Group Bioinformatics Lessons
+## Lim Group's Bioinformatics Lessons
