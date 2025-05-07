@@ -8,8 +8,8 @@ The lessons cover the analysis of
 - NCBI SRA metadata for ribosome profiling (sra_metadata.ipynb)
 
 The outcomes of the lessons include 
-- a talk at the Genetics Otago Symposium 2023 (GO-dRNA-0930-14112023_anh.pdf)
-- a poster presentation at the Molecular Biosystems Conference in Puerto Varas, Región de Los Lagos, Chile (molbiosys_gabrielle.png)
+- a talk at the Genetics Otago Symposium 2023 (GO-dRNA-0930-14112023_anh.pdf, related to directrna.ipynb)
+- a poster presentation at the Molecular Biosystems Conference in Puerto Varas, Región de Los Lagos, Chile (molbiosys_gabrielle.png, related to clinvar.ipynb)
 
 ```
 📦bioinfo_lessons
