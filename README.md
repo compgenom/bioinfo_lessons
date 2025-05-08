@@ -24,6 +24,7 @@ The outcomes of the lessons include
  ┃ ┣ 📜directrna.ipynb
  ┃ ┣ 📜facs.ipynb
  ┃ ┣ 📜jaspar.ipynb
+ ┃ ┣ 📜omim_jaspar.ipynb
  ┃ ┣ 📜omim_overview.ipynb
  ┃ ┗ 📜sra_metadata.ipynb
  ┣ 📂presentations
