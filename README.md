@@ -29,7 +29,8 @@ The outcomes of the lessons include
  ┃ ┣ 📜omim_overview.ipynb
  ┃ ┗ 📜sra_metadata.ipynb
  ┣ 📂presentations
- ┃ ┣ 📜GO-dRNA-0930-14112023_anh.pdf
+ ┃ ┣ 📜BMSp_Anh_final.pdf
+ ┃ ┗ 📜GO-dRNA-0930-14112023_anh.pdf
  ┃ ┗ 📜molbiosys_gabrielle.png
  ┗ 📂screenshots
    ┣ 📜Screenshot-gwips.png
