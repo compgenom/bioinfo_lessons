@@ -1,14 +1,15 @@
 ## Lim Group's Bioinformatics Lessons
 
 The lessons cover the analysis of 
-- the consequences of amber codon suppresion ([amber_suppression.ipynb](https://github.com/compgenom/bioinfo_lessons/blob/main/jupyter_notebooks/amber_suppression.ipynb))
-- clinically associated variants at translation initiation and termination sites and splice sites ([clinvar.ipynb](https://github.com/compgenom/bioinfo_lessons/blob/main/jupyter_notebooks/clinvar.ipynb))
-- Nanopore direct RNA sequencing results ([directrna.ipynb](https://github.com/compgenom/bioinfo_lessons/blob/main/jupyter_notebooks/directrna.ipynb))
-- flow cytometry data ([facs.ipynb](https://github.com/compgenom/bioinfo_lessons/blob/main/jupyter_notebooks/facs.ipynb))
-- NCBI SRA metadata for ribosome profiling ([sra_metadata.ipynb](https://github.com/compgenom/bioinfo_lessons/blob/main/jupyter_notebooks/sra_metadata.ipynb))
-- OMIM data files ([omim_overview.ipynb](https://github.com/compgenom/bioinfo_lessons/blob/main/jupyter_notebooks/omim_overview.ipynb))
-- transcription binding sites ([jaspar.ipynb](https://github.com/compgenom/bioinfo_lessons/blob/main/jupyter_notebooks/jaspar.ipynb))
-- transcription factor binding sites overlapping variants associated with disease (OMIM) ([omim_jaspar.ipynb](https://github.com/compgenom/bioinfo_lessons/blob/main/jupyter_notebooks/omim_jaspar.ipynb))
+- OMIM data files ([omim_overview.ipynb](https://github.com/compgenom/bioinfo_lessons/blob/main/jupyter_notebooks/omim_overview.ipynb)) [basic]
+- transcription binding sites ([jaspar.ipynb](https://github.com/compgenom/bioinfo_lessons/blob/main/jupyter_notebooks/jaspar.ipynb)) [basic]
+- transcription factor binding sites overlapping variants associated with disease ([omim_jaspar.ipynb](https://github.com/compgenom/bioinfo_lessons/blob/main/jupyter_notebooks/omim_jaspar.ipynb)) [intermediate-advanced]
+- clinically associated variants at translation initiation and termination sites and splice sites ([clinvar.ipynb](https://github.com/compgenom/bioinfo_lessons/blob/main/jupyter_notebooks/clinvar.ipynb)) [advanced]
+- flow cytometry data ([facs.ipynb](https://github.com/compgenom/bioinfo_lessons/blob/main/jupyter_notebooks/facs.ipynb)) [intermediate]
+- the consequences of amber codon suppresion ([amber_suppression.ipynb](https://github.com/compgenom/bioinfo_lessons/blob/main/jupyter_notebooks/amber_suppression.ipynb)) [intermediate]
+- Nanopore direct RNA sequencing results ([directrna.ipynb](https://github.com/compgenom/bioinfo_lessons/blob/main/jupyter_notebooks/directrna.ipynb)) [intermediate-advanced]
+- NCBI SRA metadata for ribosome profiling ([sra_metadata.ipynb](https://github.com/compgenom/bioinfo_lessons/blob/main/jupyter_notebooks/sra_metadata.ipynb)) [intermediate-advanced]
+
 
 The outcomes of the lessons include 
 - a Python package ([RIBOSS](https://github.com/lcscs12345/riboss) and its [use cases](https://github.com/lcscs12345/riboss_paper)) and a paper published at [_Briefings in Bioinformatics_](https://doi.org/10.1093/bib/bbaf164) (related to [sra_metadata.ipynb](https://github.com/compgenom/bioinfo_lessons/blob/main/jupyter_notebooks/sra_metadata.ipynb))
