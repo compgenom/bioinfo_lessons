@@ -5,9 +5,9 @@ The lessons cover the analysis of
 - clinically associated variants at translation initiation and termination sites and splice sites ([clinvar.ipynb](https://github.com/compgenom/bioinfo_lessons/blob/main/jupyter_notebooks/clinvar.ipynb))
 - Nanopore direct RNA sequencing results ([directrna.ipynb](https://github.com/compgenom/bioinfo_lessons/blob/main/jupyter_notebooks/directrna.ipynb))
 - flow cytometry data ([facs.ipynb](https://github.com/compgenom/bioinfo_lessons/blob/main/jupyter_notebooks/facs.ipynb))
-- NCBI SRA metadata for ribosome profiling ([sra_metadata.ipynb](https://github.com/compgenom/bioinfo_lessons/blob/main/jupyter_notebooks/sra_metadata.ipynb))
-- OMIM data files ([omim_overview.ipynb](https://github.com/compgenom/bioinfo_lessons/blob/main/jupyter_notebooks/omim_overview.ipynb))
 - transcription binding sites ([jaspar.ipynb](https://github.com/compgenom/bioinfo_lessons/blob/main/jupyter_notebooks/jaspar.ipynb))
+- OMIM data files ([omim_overview.ipynb](https://github.com/compgenom/bioinfo_lessons/blob/main/jupyter_notebooks/omim_overview.ipynb))
+- NCBI SRA metadata for ribosome profiling ([sra_metadata.ipynb](https://github.com/compgenom/bioinfo_lessons/blob/main/jupyter_notebooks/sra_metadata.ipynb))
 
 The outcomes of the lessons include 
 - a Python package ([RIBOSS](https://github.com/lcscs12345/riboss) and its [use cases](https://github.com/lcscs12345/riboss_paper)) and a paper published at [_Briefings in Bioinformatics_](https://doi.org/10.1093/bib/bbaf164) (related to [sra_metadata.ipynb](https://github.com/compgenom/bioinfo_lessons/blob/main/jupyter_notebooks/sra_metadata.ipynb))
@@ -22,6 +22,8 @@ The outcomes of the lessons include
  ┃ ┣ 📜clinvar.ipynb
  ┃ ┣ 📜directrna.ipynb
  ┃ ┣ 📜facs.ipynb
+ ┃ ┣ 📜jaspar.ipynb
+ ┃ ┣ 📜omim_overview.ipynb
  ┃ ┗ 📜sra_metadata.ipynb
  ┣ 📂presentations
  ┃ ┣ 📜GO-dRNA-0930-14112023_anh.pdf
@@ -29,6 +31,8 @@ The outcomes of the lessons include
  ┗ 📂screenshots
    ┣ 📜Screenshot-gwips.png
    ┣ 📜Screenshot-homo_sapiens_clinically_associated.png
+   ┣ 📜Screenshot-jaspar_bed.png
+   ┣ 📜Screenshot-jaspar_tffm.png
    ┣ 📜Screenshot-ncbi.png
    ┣ 📜Screenshot-runselector.png
    ┗ 📜Screenshot-sra_result.png
